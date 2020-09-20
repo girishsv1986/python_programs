@@ -1,5 +1,5 @@
 # Left View of A Binary Tree
-This python programs gives the left view of a given binary tree.
+This python program gives the left view of a given binary tree.
 
 ### Pre-requisites:
 python3 or higher version should be installed
@@ -8,7 +8,7 @@ python3 or higher version should be installed
 function **__get_left_view__** can be simply imported and called by passing a binary tree to get it's left view.
 ```
 from binary_tree_left_view import Node, get_left_view
-# Create your binary tree using Node class instances
+# Create your binary tree by creating Node class instances
 left_view = get_left_view(<root_node_of_your_tree>, [])
 ```
 
